@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-03 05:08:52</sys_created_on>
+        <sys_id>c369c585db5000107137a0f2ca9619c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_217576_sn_ccw154_hello_world_table.x_217576_sn_ccw154.hello_world_table_user</sys_name>
+        <sys_package display_value="SN-CCW1547-Hello-World" source="x_217576_sn_ccw154">c3a04905db1000107137a0f2ca9619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN-CCW1547-Hello-World">c3a04905db1000107137a0f2ca9619ce</sys_scope>
+        <sys_security_acl display_value="x_217576_sn_ccw154_hello_world_table">c769c585db5000107137a0f2ca9619bc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c369c585db5000107137a0f2ca9619c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-03 05:08:52</sys_updated_on>
+        <sys_user_role display_value="x_217576_sn_ccw154.hello_world_table_user" name="x_217576_sn_ccw154.hello_world_table_user">666985cddb1000107137a0f2ca9619fe</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
